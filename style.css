@@ -185,7 +185,7 @@ section h2 {
 }
 
 
-/* /* Responsive Design */
+/* Responsive Design
 @media (max-width: 1024px) {
     .grid-container {
         grid-template-columns: repeat(2, 1fr);
