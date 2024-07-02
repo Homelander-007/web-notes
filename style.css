@@ -192,7 +192,7 @@ section h2 {
     }
 }
 
-@media (max-width: 868px) {
+@media (max-width: 968px) {
     .grid-container {
         grid-template-columns: 1fr;
     }
